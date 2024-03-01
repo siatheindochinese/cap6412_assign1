@@ -19,7 +19,7 @@ For Flickr30k images, download the `flickr30k-images` folder and store it in `ca
 For MSVD videos, download the videos and store it in `cache/msvdqa/videos`. MSVD download link: https://www.cs.utexas.edu/users/ml/clamp/videoDescription/
 
 ## 1) Running evaluation
-I have compiled all precomputed outputs in [my google driver folder](https://drive.google.com/drive/folders/1lqkK8N5fs0ytKnMetfVOs0v-3tMgESga?usp=sharing), inthe 3 folders `precomputed_coco`, `precomputed_flickr` and `precomputed_msvd`. 
+I have compiled all precomputed outputs in [my google driver folder](https://drive.google.com/drive/folders/1lqkK8N5fs0ytKnMetfVOs0v-3tMgESga?usp=sharing), in the 3 folders `precomputed_coco`, `precomputed_flickr` and `precomputed_msvd`. 
 
 There are 5 evaluation scripts in this repository:
 
