@@ -9,6 +9,8 @@ Install salesforce-lavis from the original [lavis github repository](https://git
 
 Do not use `pip install salesforce-lavis` as the Blip2OPT model in the PyPI version does not have `predict_answers` for performing VQA.
 
+Additionaly, the `datasets` library from huggingface is used to process json files. Install it with `pip install datasets`.
+
 ### Datasets
 I have compiled the relevant annotations in [my google driver folder](https://drive.google.com/drive/folders/1lqkK8N5fs0ytKnMetfVOs0v-3tMgESga?usp=sharing), download the `cache` folder and put it in this repository. You should have your annotations in `cache/coco/annotations`, `cache/flickr30k/annotations` and `cache/msvdqa/annotations`.
 
